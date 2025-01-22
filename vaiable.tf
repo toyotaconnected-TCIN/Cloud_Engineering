@@ -13,4 +13,4 @@ variable "mail_id_tcin-canv-tkm-prod" {
 variable "OU_id_tcin-canv-tkm-prod" {
   description = "aws orgnaization ou unit id"
   type = string
-}
+ }

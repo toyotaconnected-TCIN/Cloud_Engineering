@@ -10,5 +10,4 @@ resource "aws_organizations_account" "tcin-canv-tkm-prod" {
 
 output "accounetid_tcin-canv-tkm-prod" {
     value =  aws_organizations_account.tcin-canv-tkm-prod.id
-  
-}
+ }
