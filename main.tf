@@ -1,4 +1,4 @@
-#tcin-canv-tkm-prod resource block
+#tcin-canv-tkm-prod resource block in tcin
 
 resource "aws_organizations_account" "tcin-canv-tkm-prod" {
     name = var.account_name_tcin-canv-tkm-prod
